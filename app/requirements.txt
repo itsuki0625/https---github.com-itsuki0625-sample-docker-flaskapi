@@ -1,0 +1,7 @@
+Flask==2.3.3
+Flask-Migrate==4.0.5
+Flask-SQLAlchemy==3.1.1
+pymysql
+python-dotenv
+docopt
+uwsgi
